@@ -20,11 +20,11 @@ export default function DefaultLayout({
         <Link
           isExternal
           className="flex items-center gap-1 text-current"
-          href="https://nextui-docs-v2.vercel.app?utm_source=next-pages-template"
-          title="nextui.org homepage"
+          href="https://pioneerasso.tech"
+          title="pioneerasso.tech"
         >
           <span className="text-default-600">Powered by</span>
-          <p className="text-primary">NextUI</p>
+          <p className="text-primary">东营市第一中学 PioneerAsso</p>
         </Link>
       </footer>
     </div>
